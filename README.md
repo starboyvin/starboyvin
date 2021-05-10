@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Salve
 - 👀 I’m interested in coding and developing
-- 🌱 I’m currently learning Data Analytics and ought to become Data Scientist on day
+- 🌱 I’m currently learning Data Analytics and ought to become Data Scientist one day
 - 💞️ I’m looking to collaborate on Aspirants who are in similar interests of mine.
 - 📫 How to reach me: https://github.com/starboyvin
 
